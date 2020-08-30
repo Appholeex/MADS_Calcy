@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "856366554353",
+    "firebase_url": "https://testfirebase-9d841.firebaseio.com",
+    "project_id": "testfirebase-9d841",
+    "storage_bucket": "testfirebase-9d841.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:856366554353:android:dc077be144732679",
+        "android_client_info": {
+          "package_name": "com.appholeex.fcmsample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "856366554353-rigcn74vg1ive7c4jn0p829295m1289e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCG_Y7z6lnBeo4RI5vBJXfRuq8E5FDXak8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "856366554353-rigcn74vg1ive7c4jn0p829295m1289e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:856366554353:android:235641c9aa15b194151d50",
+        "android_client_info": {
+          "package_name": "com.appholeex.madscalcy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "856366554353-rigcn74vg1ive7c4jn0p829295m1289e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCG_Y7z6lnBeo4RI5vBJXfRuq8E5FDXak8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "856366554353-rigcn74vg1ive7c4jn0p829295m1289e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:856366554353:android:02d7019e68faa1a3",
+        "android_client_info": {
+          "package_name": "com.csns.testfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "856366554353-rigcn74vg1ive7c4jn0p829295m1289e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCG_Y7z6lnBeo4RI5vBJXfRuq8E5FDXak8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "856366554353-rigcn74vg1ive7c4jn0p829295m1289e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
